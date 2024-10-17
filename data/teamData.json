@@ -1,0 +1,127 @@
+{
+    "format": "Ubers",
+    "gen": "Gen 9",
+    "pokemon": [
+        {
+            "name": "Ogerpon-Hearthflame",
+            "item": "Hearthflame Mask",
+            "ability": "Mold Breaker",
+            "moves": {
+                "move1": "Ivy Cudgel",
+                "move2": "Play Rough",
+                "move3": "Trailblaze",
+                "move4": "Swords Dance"
+            },
+            "ivSpread": "31/31/31/31/31/31",
+            "evStats": {
+                "hp": "0",
+                "atk": "252",
+                "def": "0",
+                "spa": "0",
+                "spd": "4",
+                "spe": "252"
+            }
+        },
+        {
+            "name": "Flutter Mane",
+            "item": "Aguav Berry",
+            "ability": "Protosynthesis",
+            "moves": {
+                "move1": "Shadow Ball",
+                "move2": "Moonblast",
+                "move3": "Thunderbolt",
+                "move4": "Power Gem"
+            },
+            "ivSpread": "31/31/31/31/31/31",
+            "evStats": {
+                "hp": "0",
+                "atk": "0",
+                "def": "0",
+                "spa": "252",
+                "spd": "4",
+                "spe": "252"
+            }
+        },
+        {
+            "name": "Dragonite",
+            "item": "Assault Vest",
+            "ability": "Inner Focus",
+            "moves": {
+                "move1": "Dragon Dance",
+                "move2": "Extreme Speed",
+                "move3": "Dragon Claw",
+                "move4": "Body Slam"
+            },
+            "ivSpread": "31/31/31/31/31/31",
+            "evStats": {
+                "hp": "244",
+                "atk": "252",
+                "def": "4",
+                "spa": "0",
+                "spd": "4",
+                "spe": "4"
+            }
+        },
+        {
+            "name": "Ursaluna-Bloodmoon",
+            "item": "Choice Band",
+            "ability": "Mind's Eye",
+            "moves": {
+                "move1": "Calm Mind",
+                "move2": "Blood Moon",
+                "move3": "Earth Power",
+                "move4": "Protect"
+            },
+            "ivSpread": "31/31/31/31/31/31",
+            "evStats": {
+                "hp": "252",
+                "atk": "0",
+                "def": "0",
+                "spa": "252",
+                "spd": "4",
+                "spe": "0"
+            }
+        },
+        {
+            "name": "Urshifu-Rapid-Strike",
+            "item": "Choice Scarf",
+            "ability": "Unseen Fist",
+            "moves": {
+                "move1": "Aqua Jet",
+                "move2": "Surging Strikes",
+                "move3": "Close Combat",
+                "move4": "U-turn"
+            },
+            "ivSpread": "31/31/31/31/31/31",
+            "evStats": {
+                "hp": "0",
+                "atk": "252",
+                "def": "0",
+                "spa": "0",
+                "spd": "4",
+                "spe": "252"
+            }
+        },
+        {
+            "name": "Iron Bundle",
+            "item": "Choice Specs",
+            "ability": "Quark Drive",
+            "moves": {
+                "move1": "Hydro Pump",
+                "move2": "Freeze-Dry",
+                "move3": "Flip Turn",
+                "move4": "Encore"
+            },
+            "ivSpread": "31/31/31/31/31/31",
+            "evStats": {
+                "hp": "0",
+                "atk": "0",
+                "def": "0",
+                "spa": "252",
+                "spd": "4",
+                "spe": "252"
+            }
+        }
+    ],
+    "expectedValidationMessage": "Your team is valid for [Gen 5] Ubers."
+}
