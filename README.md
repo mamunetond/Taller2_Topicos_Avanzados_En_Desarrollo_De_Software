@@ -49,7 +49,7 @@ Dar click en el botón add Pokemon
 
 ![image](https://github.com/user-attachments/assets/3b4bbf7b-6ced-4b9f-ae31-f189d8373b05)
 
-Si todos los pokemones cumplen con el reglamentode de Ubers, nos aparecerá por pantalla el siguiente mensaje: Your team is valid for Gen 9 Ubers.
+Si todos los pokemones cumplen con el reglamento de Ubers, nos aparecerá por pantalla el siguiente mensaje: Your team is valid for Gen 9 Ubers.
 
 
 # Evidencias del ejercicio
