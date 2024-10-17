@@ -45,6 +45,12 @@ Darle al click al botón New Gen 9 Ubers Team
 
 Dar click en el botón add Pokemon
 
+# Paso 6:
+
+![image](https://github.com/user-attachments/assets/3b4bbf7b-6ced-4b9f-ae31-f189d8373b05)
+
+Si todos los pokemones cumplen con el reglamentode de Ubers, nos aparecerá por pantalla el siguiente mensaje: Your team is valid for Gen 9 Ubers.
+
 
 # Evidencias del ejercicio
 
@@ -79,10 +85,20 @@ Dar click en el botón add Pokemon
 ![team](https://github.com/user-attachments/assets/f5ccc8b6-4871-452d-95ed-9534daabc885)
 
 
+## Assertions 
+
+En esta prueba automatizada hay dos assertions:
+
+1) El primer assertion es cuando le demos los valores a los stats al final se debe de quedar en 0, es decir, los 508 puntos de EVS deben de estar distribuidos en las diferentes stats.
+
+2) El segundo assertion es una vez que tengamos los 6 pokemones en nuestro equipo, le damos click en el botón validate y nos deberá de mostrar un mensaje que diga: Your team is valid for Gen 9 Ubers.
+
 ## Observaciones importantes
 
 1) Es fundamental que cuando se vaya agregar un Pokemon se digite el nombre del Pokemon hasta que aparezca y después seleccionarlo
+   
 2) Es importante que se digite los valores de los EVS de cada pokemon manualmente
+   
 3) Tener en cuenta que la sumatoria de los puntos de EVS debe de ser igual a 508
 
 
